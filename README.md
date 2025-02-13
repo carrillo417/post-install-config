@@ -29,7 +29,7 @@ While logged in as an admin you are able to switch between Agent Panel and Admin
 
 <img src="https://i.imgur.com/nhB9CaA.png" height="80%" width="80%" alt=""/>
 
-<h2>Configure Roles</h2>
+<h2>Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Roles.html">Roles</a></h2>
 
 - While in the admin panel, let's configure Roles (for grouping permissions)
 - Admin Panel -> Agents -> Roles
@@ -47,7 +47,7 @@ While logged in as an admin you are able to switch between Agent Panel and Admin
 
 <img src="https://i.imgur.com/4WBj1cf.png" height="80%" width="80%" alt=""/>
 
-<h2>Configure Departments</h2>
+<h2>Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Departments.html">Departments</a></h2>
 
 - Departments can help ticket visibility as well as separate tickets based on Departments such as Help Desk vs SysAdmins, vs Networking.
 - Admin Panel -> Agents -> Departments
@@ -61,7 +61,14 @@ While logged in as an admin you are able to switch between Agent Panel and Admin
 
 <img src="https://i.imgur.com/897Fhw9.png" height="80%" width="80%" alt=""/>
 
-<h2>Configure Teams </h2>
+<h2>Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Teams.html">Teams</a> </h2>
 
-- Admin Panel -> Agents -> Teams (pulls agents from different Departments
-- Online Banking 
+- Admin Panel -> Agents -> Teams (pulls agents from different Departments)
+- Online Banking
+
+<img src="https://i.imgur.com/gUyzHTt.png" height="80%" width="80%" alt=""/>
+
+<img src="https://i.imgur.com/nOhBQgP.png" height="80%" width="80%" alt=""/>
+
+<img src="https://i.imgur.com/zgJOJE3.png" height="80%" width="80%" alt=""/>
+
