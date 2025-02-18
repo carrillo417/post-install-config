@@ -78,13 +78,13 @@ While logged in as an admin you are able to switch between Agent Panel and Admin
 
 <img src="https://i.imgur.com/2evkMvp.png" height="80%" width="80%" alt=""/>
 
-- Create new agent: Jane
+- Create new agent: Jane Doe
 - Click on Set Password
 
 <img src="https://i.imgur.com/7I3JI4M.png" height="80%" width="80%" alt=""/>
 
-- Create a new password
 - Uncheck "Send the agent a password reset email" and "Require password change at next login"
+- Create new password
 
 <img src="https://i.imgur.com/wkfzwiv.png" height="80%" width="80%" alt=""/>
 
@@ -96,8 +96,9 @@ While logged in as an admin you are able to switch between Agent Panel and Admin
   
 <img src="https://i.imgur.com/oIvZNxh.png" height="80%" width="80%" alt=""/>
 
+- Create another agent: John Doe
 
-
+<img src="https://i.imgur.com/Au0ST1t.png" height="80%" width="80%" alt=""/>
 
 
 
