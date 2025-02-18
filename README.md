@@ -72,3 +72,34 @@ While logged in as an admin you are able to switch between Agent Panel and Admin
 
 <img src="https://i.imgur.com/zgJOJE3.png" height="80%" width="80%" alt=""/>
 
+<h2>Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Agents.html">Agents</a> </h2>
+
+- Admin -> Agents -> Add New
+
+<img src="https://i.imgur.com/2evkMvp.png" height="80%" width="80%" alt=""/>
+
+- Create new agent: Jane
+- Click on Set Password
+
+<img src="https://i.imgur.com/7I3JI4M.png" height="80%" width="80%" alt=""/>
+
+- Create a new password
+- Uncheck "Send the agent a password reset email" and "Require password change at next login"
+
+<img src="https://i.imgur.com/wkfzwiv.png" height="80%" width="80%" alt=""/>
+
+- Select Primary Department, in this case select "SysAdmins" and the "Supreme Admin" Role created earlier
+
+<img src="https://i.imgur.com/DbrdcuA.png" height="80%" width="80%" alt=""/>
+
+- Select the "Online Banking" Teams created earlier as well
+  
+<img src="https://i.imgur.com/oIvZNxh.png" height="80%" width="80%" alt=""/>
+
+
+
+
+
+
+
+
