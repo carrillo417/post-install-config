@@ -25,12 +25,13 @@ http://localhost/osTicket/scp/login.php </b>
 End Users osTicket URL:
 http://localhost/osTicket </b>
 
-While logged in as an admin you are able to switch between Agent Panel and Admin Panel. In the admin panel you have more control and you can also change or configure settings if needed. 
+While logged in as an admin you are able to switch between Agent Panel and Admin Panel. In the admin panel you have more control and you can also configure settings if needed. 
 
 <img src="https://i.imgur.com/nhB9CaA.png" height="80%" width="80%" alt=""/>
 
 <h2>Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Roles.html">Roles</a></h2>
 
+- Roles are the permissions granted to Agents per Department that they have access to. 
 - While in the admin panel, let's configure Roles (for grouping permissions)
 - Admin Panel -> Agents -> Roles
 - Supreme Admin (this role has all the permissions enabled)
@@ -63,7 +64,8 @@ While logged in as an admin you are able to switch between Agent Panel and Admin
 
 <h2>Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Teams.html">Teams</a> </h2>
 
-- Admin Panel -> Agents -> Teams (pulls agents from different Departments)
+- Teams allow you to pull Agents from different Departments and organize them to handle a specific issue or user.
+- Admin Panel -> Agents -> Teams
 - Online Banking
 
 <img src="https://i.imgur.com/gUyzHTt.png" height="80%" width="80%" alt=""/>
@@ -74,6 +76,7 @@ While logged in as an admin you are able to switch between Agent Panel and Admin
 
 <h2>Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Agents.html">Agents</a> </h2>
 
+- Agents are the workers who are given access to the help desk with the intent to respond and resolve the tickets.
 - Admin -> Agents -> Add New
 
 <img src="https://i.imgur.com/2evkMvp.png" height="80%" width="80%" alt=""/>
@@ -99,6 +102,77 @@ While logged in as an admin you are able to switch between Agent Panel and Admin
 - Create another agent: John Doe
 
 <img src="https://i.imgur.com/Au0ST1t.png" height="80%" width="80%" alt=""/>
+
+- The primary department for this agent will be "Support" and have a "view only" which grants the agent to view tickets only.
+
+<img src="https://i.imgur.com/nCBlnWp.png" height="80%" width="80%" alt=""/>
+
+<h2>Configure <a href="https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html">Users</a></h2>
+
+- Agent Panel -> Users -> Add New
+- In some cases user registration is required to create tickets. It depends on how the ticketing system is setup and can be changed in User Settings.
+
+<img src="https://i.imgur.com/zLdwF0H.png" height="80%" width="80%" alt=""/>
+
+<img src="https://i.imgur.com/Euocxw6.png" height="80%" width="80%" alt=""/>
+
+<img src="https://i.imgur.com/wobIRpt.png" height="80%" width="80%" alt=""/>
+
+<h2>Configure  <a href="https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html">SLA</a></h2>
+
+- SLA Plans or Service Level Agreements are to provide a length of time in which the help desk administrator expects tickets to be closed.
+- Admin Panel -> Manage -> SLA
+
+<img src="https://i.imgur.com/xipzl3q.png" height="80%" width="80%" alt=""/>
+
+- Sev-A (Grace period: 1 Hour, Schedule: 24/7)
+
+<img src="https://i.imgur.com/VxB68cF.png" height="80%" width="80%" alt=""/>
+
+- Sev-B (Grace period: 4 Hours, Schedule: 24/7)
+
+<img src="https://i.imgur.com/IPynPNx.png" height="80%" width="80%" alt=""/>
+
+- Sev-C (Grace period: 8 Hpurs, Business Hours)
+
+<img src="https://i.imgur.com/OIpCTmZ.png" height="80%" width="80%" alt=""/>
+
+<h2>Configure <a href="https://docs.osticket.com/en/latest/Admin/Manage/Help%20Topic.html">Help Topics</a></h2>
+
+- Help Topics ensure proper assignment and prompt response to the ticket. Help Topics determine what Department the ticket is routed to which also determines which Agents have access to the ticket.
+- Admin Panel -> Manage -> Help Topics
+
+<img src="https://i.imgur.com/CRSIaT0.png" height="80%" width="80%" alt=""/>
+
+- Business Critical Outage
+
+<img src="https://i.imgur.com/D58KPFv.png" height="80%" width="80%" alt=""/>
+
+- Personal Computer Issues
+
+<img src="https://i.imgur.com/GVfGYZ6.png" height="80%" width="80%" alt=""/>
+
+- Equipment Request
+
+<img src="https://i.imgur.com/e8Tq5fd.png" height="80%" width="80%" alt=""/>
+
+- Password Reset
+
+<img src="https://i.imgur.com/MqMHYmT.png" height="80%" width="80%" alt=""/>
+
+- Other
+
+<img src="https://i.imgur.com/qA3yz0p.png" height="80%" width="80%" alt=""/>
+
+
+
+
+
+
+
+
+
+
 
 
 
