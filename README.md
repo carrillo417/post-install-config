@@ -164,10 +164,13 @@ While logged in as an admin you are able to switch between Agent Panel and Admin
 
 <img src="https://i.imgur.com/qA3yz0p.png" height="80%" width="80%" alt=""/>
 
+<h2>Additional Steps</h2>
 
+- Make sure the SysAdmins Department is set to a "Top Level Department"
+- Delete the Maintenance Department
+- Admin Panel -> Departments -> Select Maintenance -> Click on More and Delete
 
-
-
+<img src="https://i.imgur.com/Pf3qTly.png" height="80%" width="80%" alt=""/>
 
 
 
